@@ -1,0 +1,14 @@
+{
+  "name": "記得啦",
+  "short_name": "記得啦",
+  "description": "訂閱、帳單、保固、證件、稅費——所有會到期、會扣款的事，一個 App 記得。",
+  "lang": "zh-Hant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f3ff",
+  "theme_color": "#7c5cff",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
